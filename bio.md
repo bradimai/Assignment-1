@@ -36,4 +36,8 @@ goals:
 	finish summmer term with all A's
 	make great memories with friends
 
-
+Schooling:
+	the international school - elementry school
+	twality middle school- middle school
+	Tigard high school - High school
+	Oregon State univeristy - College
