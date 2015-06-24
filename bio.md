@@ -1,3 +1,4 @@
+# Programming Background
 Hello my is bradley ima
 Japanese Americani
 I'm a sophmore in computer science
